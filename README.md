@@ -3,7 +3,7 @@
 
 I design and build software systems from the ground up, with deep expertise in System Architecture, Solution Design, and Enterprise Architecture. My primary domain is fintech and banking — payment systems, transaction processing, and regulatory-compliant solutions.
 
-Beyond finance, I've also worked across retail, medicine, and real estate — including one of the largest property listing platforms (classifieds marketplace), which gave me a broad perspective on solving business problems across industries.
+Beyond finance, I've also worked across retail, medicine, and real estate — including one of the largest property listing platforms, which gave me a broad perspective on solving business problems across industries.
 
 Technically, I work across the full stack: ASP.NET Core for backends, React for single-page frontends, and distributed architectures using CQRS, Message Brokers (RabbitMQ/Kafka), and Microservices. I apply Domain-Driven Design (DDD) to model complex domains, keeping systems maintainable as they evolve.
 
